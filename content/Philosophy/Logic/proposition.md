@@ -654,3 +654,150 @@ Programming Language-এর Conditional Expression-এ Proposition বা Boolea
 
 ```text
 age >= 18
+
+এটি একটি Boolean Condition হিসেবে True অথবা False হতে পারে।
+আর:
+age >= 18 AND has_permission
+এখানে দুটি Condition AND-এর মাধ্যমে যুক্ত হয়েছে।
+Proposition ও Database
+Database Query-তে Boolean Condition ব্যবহার করা হয়।
+উদাহরণ:
+age > 18 AND country = "Bangladesh"
+এখানে দুটি Condition-এর Logical Relationship ব্যবহার করা হয়েছে।
+Database Filtering এবং Search Condition তৈরিতে এ ধরনের Logic গুরুত্বপূর্ণ।
+Proposition ও Artificial Intelligence
+Artificial Intelligence-এর কিছু Symbolic Reasoning System Proposition ব্যবহার করে Knowledge প্রকাশ করতে পারে।
+উদাহরণ:
+পাখি উড়তে পারে।
+এবং:
+টিয়া একটি পাখি।
+এই ধরনের Proposition ও Rules-এর মাধ্যমে একটি Reasoning System নতুন Conclusion তৈরি করতে পারে।
+তবে আধুনিক AI-এর সব পদ্ধতি Proposition বা Symbolic Logic-এর ওপর নির্ভরশীল নয়। Machine Learning এবং Probabilistic Methods-ও গুরুত্বপূর্ণ।
+দৈনন্দিন জীবনে Proposition
+মানুষ প্রতিদিন অসংখ্য Proposition ব্যবহার করে।
+উদাহরণ:
+আজ স্কুল খোলা।
+বাসটি সকাল ৮টায় আসবে।
+বইটি টেবিলের ওপর আছে।
+আগামীকাল পরীক্ষা আছে।
+এ ধরনের বক্তব্য সত্য অথবা মিথ্যা হিসেবে যাচাই করা যায়।
+তাই এগুলো Reasoning-এর অংশ হতে পারে।
+Proposition যাচাই
+কোনো Proposition মূল্যায়নের সময় কয়েকটি বিষয় বিবেচনা করা যায়:
+বক্তব্যটি স্পষ্ট কি না।
+এটি সত্য বা মিথ্যা হিসেবে মূল্যায়নযোগ্য কি না।
+দাবিটির প্রমাণ আছে কি না।
+বক্তব্যটির সময় ও Context নির্দিষ্ট কি না।
+ভাষাটি দ্ব্যর্থক কি না।
+বক্তব্যের মধ্যে Contradiction আছে কি না।
+Proposition ও Context
+একটি Proposition-এর Truth Value কখনো কখনো Context-এর ওপর নির্ভর করতে পারে।
+উদাহরণ:
+আজ বৃষ্টি হচ্ছে।
+এই বক্তব্য সত্য না মিথ্যা তা নির্ধারণের জন্য কোন স্থান এবং কোন সময়ের কথা বলা হচ্ছে তা জানা প্রয়োজন হতে পারে।
+তাই Natural Language Proposition বিশ্লেষণে Context গুরুত্বপূর্ণ হতে পারে।
+Proposition-এর সীমাবদ্ধতা
+প্রতিটি Meaningful Sentence-কে Proposition হিসেবে বিবেচনা করা যায় না।
+প্রশ্ন, আদেশ, আবেগপ্রকাশ এবং কিছু অস্পষ্ট Expression-এর Truth Value সরাসরি নির্ধারণ করা কঠিন হতে পারে।
+এছাড়া Natural Language অনেক সময় Context-dependent এবং Ambiguous হওয়ায় Formal Logic-এ রূপান্তরের আগে বক্তব্যকে স্পষ্টভাবে নির্ধারণ করতে হয়।
+গুরুত্বপূর্ণ পরিভাষা
+English
+বাংলা
+Proposition
+বচন / প্রস্তাব
+Statement
+বক্তব্য
+Truth Value
+সত্যমূল্য
+True
+সত্য
+False
+মিথ্যা
+Simple Proposition
+সরল বচন
+Compound Proposition
+যৌগিক বচন
+Atomic Proposition
+মৌলিক বচন
+Negation
+নঞর্থকরণ / অস্বীকৃতি
+Conjunction
+সংযোজন
+Disjunction
+বিকল্প সংযোজন
+Conditional
+শর্তযুক্ত বচন
+Biconditional
+দ্বিশর্তযুক্ত বচন
+Predicate
+বিধেয়
+Premise
+পূর্বকথন / ভিত্তিবাক্য
+Conclusion
+উপসংহার
+Tautology
+অনিবার্য সত্য
+Contradiction
+স্ববিরোধ
+Contingency
+আপতিক বচন
+Truth Table
+সত্যক সারণি
+Logical Equivalence
+যৌক্তিক সমতুল্যতা
+Proposition-এর একটি সম্পূর্ণ উদাহরণ
+ধরা যাক:
+P = আজ বৃষ্টি হচ্ছে।
+Q = রাস্তা ভেজা।
+তাহলে:
+Simple Proposition
+P
+আজ বৃষ্টি হচ্ছে।
+Negation
+¬P
+আজ বৃষ্টি হচ্ছে না।
+Conjunction
+P ∧ Q
+আজ বৃষ্টি হচ্ছে এবং রাস্তা ভেজা।
+Disjunction
+P ∨ Q
+আজ বৃষ্টি হচ্ছে অথবা রাস্তা ভেজা।
+Conditional
+P → Q
+যদি আজ বৃষ্টি হয়, তাহলে রাস্তা ভেজা।
+Biconditional
+P ↔ Q
+আজ বৃষ্টি হচ্ছে তখনই এবং কেবল তখনই যখন রাস্তা ভেজা।
+শেষের Biconditional Statement বাস্তব জগতের সত্যতা দাবি হিসেবে সবসময় সঠিক নয়; এটি এখানে Logical Form বোঝানোর উদাহরণ হিসেবে ব্যবহৃত হয়েছে।
+যুক্তিবিদ্যায় Proposition-এর গুরুত্ব
+Proposition ছাড়া Formal Argument বিশ্লেষণ করা কঠিন।
+Proposition-এর মাধ্যমে:
+Argument তৈরি করা যায়।
+Premise নির্ধারণ করা যায়।
+Conclusion নির্ধারণ করা যায়।
+Truth Value বিশ্লেষণ করা যায়।
+Truth Table তৈরি করা যায়।
+Logical Equivalence পরীক্ষা করা যায়।
+Tautology ও Contradiction শনাক্ত করা যায়।
+Formal Proof তৈরি করা যায়।
+Computer-based Reasoning করা যায়।
+উপসংহার
+বচন বা প্রস্তাব (Proposition) যুক্তিবিদ্যার অন্যতম মৌলিক ধারণা। এটি এমন একটি অর্থপূর্ণ ঘোষণামূলক বক্তব্য যা সত্য অথবা মিথ্যা হিসেবে মূল্যায়ন করা যায়।
+একটি Argument-এর Premise ও Conclusion সাধারণত Proposition হিসেবে প্রকাশ করা যায়। Propositional Logic Proposition-কে প্রতীক দিয়ে প্রকাশ করে এবং Logical Connective-এর মাধ্যমে তাদের মধ্যে সম্পর্ক বিশ্লেষণ করে।
+গণিত, Computer Science, Programming, Database, Artificial Intelligence এবং Formal Reasoning-এর বিভিন্ন ক্ষেত্রে Proposition-এর ধারণা গুরুত্বপূর্ণ ভূমিকা পালন করে।
+যুক্তিবিদ্যা শেখার ক্ষেত্রে Proposition বোঝা একটি মৌলিক ধাপ। কারণ Proposition-এর Truth Value, Structure এবং Logical Relationship বুঝতে পারলেই পরবর্তী পর্যায়ে Propositional Logic, Predicate Logic, Truth Table, Proof এবং Logical Reasoning আরও সহজে বোঝা যায়।
+সম্পর্কিত বিষয়
+যুক্তিবিদ্যা (article:logic)
+অবরোহী যুক্তি (article:deductive-reasoning)
+আরোহী যুক্তি (article:inductive-reasoning)
+Syllogism (article:syllogism)
+যুক্তিদোষ (article:logical-fallacy)
+গাণিতিক যুক্তিবিদ্যা (article:mathematical-logic)
+সমালোচনামূলক চিন্তা (article:critical-thinking)
+তথ্যসূত্র
+Aristotle — Prior Analytics
+George Boole — An Investigation of the Laws of Thought
+Irving M. Copi, Carl Cohen & Kenneth McMahon — Introduction to Logic
+Patrick J. Hurley — A Concise Introduction to Logic
+Stanford Encyclopedia of Philosophy — Logic
+Internet Encyclopedia of Philosophy — Logic
