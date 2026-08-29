@@ -1,5 +1,4 @@
 ---
----
 id: logical-structure
 title: যৌক্তিক কাঠামো
 tags:
