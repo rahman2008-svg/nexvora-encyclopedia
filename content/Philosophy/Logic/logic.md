@@ -1,26 +1,23 @@
 ---
-
 id: logic
 title: যুক্তিবিদ্যা
 tags:
-
-- দর্শন
-- যুক্তিবিদ্যা
-- যুক্তি
-- দর্শনশাস্ত্র
-- গণিত
-- কম্পিউটার বিজ্ঞান
-- সমালোচনামূলক চিন্তা
-  related:
-- philosophy
-- critical-thinking
-- mathematical-logic
-- computer-science
-- artificial-intelligence
-
+  - দর্শন
+  - যুক্তিবিদ্যা
+  - যুক্তি
+  - দর্শনশাস্ত্র
+  - গণিত
+  - কম্পিউটার বিজ্ঞান
+  - সমালোচনামূলক চিন্তা
+related:
+  - philosophy
+  - critical-thinking
+  - mathematical-logic
+  - computer-science
+  - artificial-intelligence
 ---
 
-যুক্তিবিদ্যা
+# যুক্তিবিদ্যা
 
 সংক্ষিপ্ত পরিচিতি
 
