@@ -1,4 +1,3 @@
-
 ---
 id: truth-function
 title: সত্য-ফাংশন বা Truth Function
