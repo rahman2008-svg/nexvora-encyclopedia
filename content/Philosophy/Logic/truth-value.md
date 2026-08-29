@@ -1,40 +1,37 @@
 ---
-
 id: truth-value
 title: সত্যমূল্য
 tags:
-
-- দর্শন
-- যুক্তিবিদ্যা
-- সত্য
-- সত্যমূল্য
-- বচন
-- প্রস্তাব
-- যুক্তি
-- Formal Logic
-- Propositional Logic
-- Predicate Logic
-- Truth Table
-- Tautology
-- Contradiction
-- Critical Thinking
-  related:
-- logic
-- truth
-- proposition
-- argument
-- premise
-- conclusion
-- inference
-- validity
-- soundness
-- logical-consequence
-- logical-form
-- logical-structure
-
+  - দর্শন
+  - যুক্তিবিদ্যা
+  - সত্য
+  - সত্যমূল্য
+  - বচন
+  - প্রস্তাব
+  - যুক্তি
+  - Formal Logic
+  - Propositional Logic
+  - Predicate Logic
+  - Truth Table
+  - Tautology
+  - Contradiction
+  - Critical Thinking
+related:
+  - logic
+  - truth
+  - proposition
+  - argument
+  - premise
+  - conclusion
+  - inference
+  - validity
+  - soundness
+  - logical-consequence
+  - logical-form
+  - logical-structure
 ---
 
-সত্যমূল্য
+# সত্যমূল্য
 
 সংক্ষিপ্ত পরিচিতি
 
