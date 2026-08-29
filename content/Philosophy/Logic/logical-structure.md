@@ -1,41 +1,39 @@
 ---
-
+---
 id: logical-structure
 title: যৌক্তিক কাঠামো
 tags:
-
-- দর্শন
-- যুক্তিবিদ্যা
-- যৌক্তিক কাঠামো
-- যুক্তি
-- বচন
-- প্রস্তাব
-- Premise
-- Conclusion
-- Inference
-- Logical Form
-- Formal Logic
-- Propositional Logic
-- Predicate Logic
-- Deductive Reasoning
-- Critical Thinking
-  related:
-- logic
-- proposition
-- argument
-- premise
-- conclusion
-- inference
-- validity
-- soundness
-- logical-consequence
-- logical-form
-- deductive-reasoning
-- inductive-reasoning
-
+  - দর্শন
+  - যুক্তিবিদ্যা
+  - যৌক্তিক কাঠামো
+  - যুক্তি
+  - বচন
+  - প্রস্তাব
+  - Premise
+  - Conclusion
+  - Inference
+  - Logical Form
+  - Formal Logic
+  - Propositional Logic
+  - Predicate Logic
+  - Deductive Reasoning
+  - Critical Thinking
+related:
+  - logic
+  - proposition
+  - argument
+  - premise
+  - conclusion
+  - inference
+  - validity
+  - soundness
+  - logical-consequence
+  - logical-form
+  - deductive-reasoning
+  - inductive-reasoning
 ---
 
-যৌক্তিক কাঠামো
+# যৌক্তিক কাঠামো
 
 সংক্ষিপ্ত পরিচিতি
 
