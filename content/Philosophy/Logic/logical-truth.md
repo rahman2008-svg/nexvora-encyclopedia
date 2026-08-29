@@ -1,4 +1,3 @@
-
 ---
 id: logical-truth
 title: যৌক্তিক সত্য
