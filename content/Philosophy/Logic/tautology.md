@@ -1,4 +1,3 @@
-অবশ্যই। নিচে 20 — tautology.md ফাইলটি আরও সমৃদ্ধ করে, NexVora Encyclopedia-তে সরাসরি যোগ করার উপযোগী YAML Front Matter সহ, একবারে কপি করার মতো করে দিলাম।
 ---
 id: tautology
 title: টটোলজি
