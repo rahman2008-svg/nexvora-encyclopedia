@@ -7,7 +7,6 @@ tags:
 - দর্শন
 - যুক্তিবিদ্যা
 - সত্য
-- সত্যমূল্য
 - বচন
 - প্রস্তাব
 - যুক্তি
@@ -15,8 +14,7 @@ tags:
 - Formal Logic
 - Propositional Logic
 - Predicate Logic
-- Critical Thinking
-  related:
+   related:
 - logic
 - proposition
 - argument
