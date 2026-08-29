@@ -1,32 +1,29 @@
 ---
-
 id: truth
 title: সত্য
 tags:
-
-- দর্শন
-- যুক্তিবিদ্যা
-- সত্য
-- বচন
-- প্রস্তাব
-- যুক্তি
-- জ্ঞান
-- Formal Logic
-- Propositional Logic
-- Predicate Logic
-   related:
-- logic
-- proposition
-- argument
-- premise
-- conclusion
-- inference
-- validity
-- soundness
-- logical-consequence
-- logical-form
-- logical-structure
-
+  - দর্শন
+  - যুক্তিবিদ্যা
+  - সত্য
+  - বচন
+  - প্রস্তাব
+  - যুক্তি
+  - জ্ঞান
+  - Formal Logic
+  - Propositional Logic
+  - Predicate Logic
+related:
+  - logic
+  - proposition
+  - argument
+  - premise
+  - conclusion
+  - inference
+  - validity
+  - soundness
+  - logical-consequence
+  - logical-form
+  - logical-structure
 ---
 
 সত্য
